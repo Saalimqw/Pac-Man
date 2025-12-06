@@ -20,7 +20,3 @@
 
 - Ideal for quick local gameplay, hosting on static site platforms, or embedding in portfolios and web projects.
 
-## License
-
-- Add your preferred license information here (for example, MIT, Apache-2.0, etc.), and ensure that any original assets or inspirations are credited appropriately in line with copyright best practices.
-  
